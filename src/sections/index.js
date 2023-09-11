@@ -4,8 +4,8 @@ import SuperQuality from "./SuperQuality";
 import Services from "./Services";
 import SpecialOffer from "./SpecialOffer";
 import CustomerReviews from "./CustomerReviews";
-import Footer from "./Footer";
 import Subscribe from "./Subscribe";
+import Footer from "./Footer";
 
 export {
     Hero,
@@ -14,11 +14,6 @@ export {
     Services,
     SpecialOffer,
     CustomerReviews,
-    Footer,
-    Subscribe
+    Subscribe,
+    Footer
 }
-
-
-
-
-
